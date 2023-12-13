@@ -43,8 +43,8 @@ class Quadratic {
 
 class QuadraticMain {
     public static void main(String[] args) {
-        System.out.println("My Name is Rohit Gandhi");
-        System.out.println("My USN is 2023BMS02599");
+        System.out.println("My Name is Rachana R");
+        System.out.println("My USN is 2023BMS0214");
         Quadratic quadratic = new Quadratic();
         quadratic.getCoefficients();
         quadratic.computeRoots();
